@@ -47,4 +47,5 @@ int main(){
 
     cout<<str1<<"\n"<<str2<<endl;//endl ends the line i.e. prints the new line character and flushes the stream.
 
+    return 0;
 }
